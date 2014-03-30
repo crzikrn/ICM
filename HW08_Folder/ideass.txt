@@ -1,0 +1,6 @@
+Area Code, memorizing phone numbers. Map on smartphones. Visualizing Daily phone calls.
+
+JAR file on CODE folder with processing for java api
+
+name of folder -> library -> name of file same as name of folder
+
